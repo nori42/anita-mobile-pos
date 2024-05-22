@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "White Bread",
+        "price": 20.00,
+        "stock": 20,
+        "category": "Bread",
+        "description": "No description"
+    },
+    {
+        "id": 2,
+        "name": "Egg Crackers",
+        "price": 16.00,
+        "stock": 30,
+        "category": "Bread",
+        "description": "No description"
+    },
+    {
+        "id": 3,
+        "name": "Cinnamon",
+        "price": 44.00,
+        "stock": 50,
+        "category": "Pastries",
+        "description": "No description"
+    },
+    {
+        "id": 4,
+        "name": "Cinnamon2",
+        "price": 32.00,
+        "stock": 50,
+        "category": "Pastries",
+        "description": "No description"
+    },
+    {
+        "id": 5,
+        "name": "Cinnamon3",
+        "price": 20.00,
+        "stock": 50,
+        "category": "Pastries",
+        "description": "No description"
+    },
+    {
+        "id": 6,
+        "name": "Cinnamon4",
+        "price": 20.00,
+        "stock": 50,
+        "category": "Pastries",
+        "description": "No description"
+    },
+    {
+        "id": 7,
+        "name": "Cinnamon5",
+        "price": 26.00,
+        "stock": 50,
+        "category": "Pastries",
+        "description": "No description"
+    },
+    {
+        "id": 8,
+        "name": "Noriel Bread",
+        "price": 32.00,
+        "stock": 50,
+        "category": "Cookies",
+        "description": "No description"
+    },
+    {
+        "id": 9,
+        "name": "Jade Bread",
+        "price": 46.00,
+        "stock": 50,
+        "category": "Cookies",
+        "description": "No description"
+    }
+]
